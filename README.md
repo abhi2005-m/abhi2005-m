@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhishek Yadav 👋
 
-<!--
-**abhi2005-m/abhi2005-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✅ Who am I
+- [x] B.Tech CSE student at PSIT Kanpur (Class of 2028)
+- [x] Aspiring Data Analyst, Data Scientist and AI Developer
 
-Here are some ideas to get you started:
+## ✅ What I'm working on
+- [x] Jarvis, a personal voice assistant for Mac and phone
+- [x] AI-driven fitness tracker dashboard (Streamlit)
+- [x] Sharpening my skills with LeetCode and data projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ Tools I use
+- [x] **Languages:** Python, JavaScript, C++
+- [x] **Data/ML:** NumPy, Pandas, Scikit-learn, SQL
+- [x] **Web:** React.js, Node.js, Express.js, Streamlit
+- [x] **Other:** MongoDB, Git
+
+## ✅ How to reach me
+- [x] 📧 Email: your-email@example.com
+- [x] 💼 LinkedIn: linkedin.com/in/your-username
+- [x] 📍 Kanpur, India
