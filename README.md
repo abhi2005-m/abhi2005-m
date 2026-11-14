@@ -16,6 +16,6 @@
 - [x] **Other:** MongoDB, Git
 
 ## ✅ How to reach me
-- [x] 📧 Email: your-email@example.com
-- [x] 💼 LinkedIn: linkedin.com/in/your-username
+- [x] 📧 Email: ashek4223@gmail.com
+- [x] 💼 LinkedIn: https://www.linkedin.com/in/abhishek-yadav-341345335/
 - [x] 📍 Kanpur, India
